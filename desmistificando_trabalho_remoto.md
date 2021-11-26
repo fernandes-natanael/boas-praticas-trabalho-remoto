@@ -10,6 +10,8 @@ A empresa Buffer definiu 5 possíveis configurações de trabalho remoto:
 ![5 configurações do trabalho remoto](img/escala-trabalho-remoto.jpg)
 Imagem 1: imagem publicada pela empresa Buffer, exemplificando a escala do modelo de trabalho remoto.
 
+- `location independent:` Não depender de um local fixo.
+
 ## Pré-requisitos para mundaça de modelo
 
 - **mudança de comportamento:** necessidade de um comportamento proativo, que antecipar possíveis problemas no lugar de resolve-los quando eles estão visíveis. Logo, evite comportamento reativo e não deixe as coisas para fazer na última hora :smile:.
@@ -54,10 +56,10 @@ Além disso, o ambiente de trabalho é um ambiente de convívio, logo é importa
 
 ## Ferramentas
 
-1. A escolha de ferramenta será a ultima coisa a ser feita pela empresa, pois ferramentas são mutáveis e a cada dia surgem novas opções no mercado. 
-2. A escolha de muitas ferramentas dificultam na consistência das informações, sendo assim é importante buscar o uso do minimo de ferramentas na resolução do maior número de problemas. 
-   - `Exemplo:` uma empresa mantem dois backlogs, um no Jira e outro pelo Zenhub no github, sempre que houver mudanças do backlog deveram ser realizadas nos dois, o que demandará no dobro de trabalho e sempre haverá a possibilidade de alguem esquecer de atualizar um deles.
-3. O resultado pode ser adquirido sem o uso de ferramentas, logo para se realizar algo não há a necessidade do uso de ferramentas. Contudo, o uso de tais facilitam o alcançe de metas, que por consequência apoiam o trabalho remoto.
+1. A escolha de ferramenta será a última coisa a ser feita pela empresa, pois ferramentas são mutáveis e a cada dia surgem novas opções no mercado.
+2. A escolha de muitas ferramentas dificultam na consistência das informações, assim é importante buscar o uso do mínimo de ferramentas na resolução do maior número de problemas.
+   -  `Exemplo`: uma empresa mantêm dois backlogs, no Jira e outro pelo Zenhub no github, sempre que houver mudanças do backlog deveram ser realizadas nos dois, o que demandará no dobro de trabalho e sempre haverá a possibilidade de alguém esquecer de atualizar um deles.
+3. O resultado pode ser adquirido sem o uso de ferramentas, logo para se realizar algo não há a necessidade do uso de ferramentas. Contudo, o uso de tais facilitam o alcance de metas, que por consequência apoiam o trabalho remoto.
 
 Algumas perguntas que podem ser feitas na escolha de ferramentas de trabalho:
 
@@ -71,13 +73,9 @@ Algumas perguntas que podem ser feitas na escolha de ferramentas de trabalho:
 - Ela é fácil de utilizar e configurar? Se não, vale a pena gastar o seu tempo configurando?
 - E, por último, quanto isso vai custar no seu orçamento? O benefício de economia de tempo que ela traz compensa esse custo?
 
-Com isso é importante dizer que ferramentas são importantes, entretanto, não são a principal prioriade para uma empresa funcionar. Sendo assim, análise o que a empresa precisa e priorize de acordo com a ordem a baixo:
+Com isso é importante dizer que ferramentas são importantes, entretanto, não são a principal prioridade para uma empresa funcionar. Sendo assim, análise o que a empresa precisa e priorize conforme a ordem a baixo:
 
 1. Primeiro invista nas pessoas
 2. Depois na Cultura
 3. Depois nos Processos
 4. E só depois em ferramentas que permitem tudo isso acontecer
-
-## Glossário
-
-- `location independent:` Não depender de um local fixo.
