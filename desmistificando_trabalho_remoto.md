@@ -79,3 +79,11 @@ Com isso é importante dizer que ferramentas são importantes, entretanto, não 
 2. Depois na Cultura
 3. Depois nos Processos
 4. E só depois em ferramentas que permitem tudo isso acontecer
+
+### Exemplos de Ferramentas, Grupos de Ferramentas e Artigos ademais
+
+- [Remote Starter Kit](https://www.remotestarterkit.com/)
+- [Remote Tools](https://www.remote.tools/)
+- [The Productivity Stack do Hive](https://hive.com/the-productivity-stack/)
+- [Remote Tools Rising Stars](https://remote-how.com/blog/remote-tools-rising-stars)
+- [Versus](http://versusutil.com/), ferramenta para encontrar outras ferramentas.
